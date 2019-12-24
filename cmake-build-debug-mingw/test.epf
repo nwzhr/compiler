@@ -1,5 +1,5 @@
 .constants:
-0 S main
+0 S "main"
 1 I 123456
 
 .start:
