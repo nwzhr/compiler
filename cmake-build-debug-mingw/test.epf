@@ -1,6 +1,7 @@
 .constants:
-0 S "main"
-1 I 123456
+0 S "fun"
+1 S "main"
+2 I 123456
 
 .start:
 0 loadc 0
