@@ -1,0 +1,18 @@
+.constants:
+0 I 42
+1 S "main"
+2 I 10
+3 I 0
+
+.start:
+0 loadc 0
+
+.functions:
+0 0 0 1
+
+.F0:
+0 loadc 0
+1 loadc 2
+2 iprint
+3 loadc 3
+4 iret
