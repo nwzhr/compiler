@@ -1,6 +1,8 @@
 .constants:
-0 S "main"
-1 I 0
+0 I 42
+1 S "main"
+2 I 10
+3 I 0
 
 .start:
 0 loadc 0
