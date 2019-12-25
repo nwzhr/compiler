@@ -1,18 +1,26 @@
 .constants:
-0 I 42
-1 S "main"
-2 I 10
+0 S "fun"
+1 I 12345
+2 S "main"
 3 I 0
 
 .start:
-0 loadc 0
+0 ipush 45
+1 ipush 253
 
 .functions:
-0 0 0 1
+0 0 1 1
+1 2 0 1
 
 .F0:
-0 loadc 0
-1 loadc 2
-2 iprint
-3 loadc 3
-4 iret
+0 ipush 45
+1 ipush 253
+2 loadc 1
+3 iret
+.F1:
+0 ipush 45
+1 ipush 253
+2 loadc 1
+3 iret
+4 loadc 3
+5 iret
