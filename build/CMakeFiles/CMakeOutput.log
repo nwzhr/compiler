@@ -1,0 +1,294 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/12/22 18:45:25。
+节点 1 上的项目“E:\miniplc0-compiler\build\CMakeFiles\3.15.5\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdC.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdC.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  E:\Microsoft Visual Studio\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  E:\Microsoft Visual Studio\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\3.15.5\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=E:\Microsoft Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdC.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\miniplc0-compiler\build\CMakeFiles\3.15.5\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:24.46
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/miniplc0-compiler/build/CMakeFiles/3.15.5/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/12/22 18:45:51。
+节点 1 上的项目“E:\miniplc0-compiler\build\CMakeFiles\3.15.5\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdCXX.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  E:\Microsoft Visual Studio\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  E:\Microsoft Visual Studio\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\3.15.5\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=E:\Microsoft Visual Studio\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\miniplc0-compiler\build\CMakeFiles\3.15.5\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:10.21
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/miniplc0-compiler/build/CMakeFiles/3.15.5/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_b9337.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  testCCompiler.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b9337.dir\Debug\\" /Fd"cmTC_b9337.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  cmTC_b9337.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_b9337.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_1f5d8.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1f5d8.dir\Debug\\" /Fd"cmTC_1f5d8.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.15\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+  cmTC_1f5d8.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_1f5d8.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_61af3.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_61af3.dir\Debug\\" /Fd"cmTC_61af3.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  testCXXCompiler.cxx
+  
+  cmTC_61af3.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_61af3.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_67bdd.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_67bdd.dir\Debug\\" /Fd"cmTC_67bdd.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+  cmTC_67bdd.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_67bdd.exe
+
+
+
+Performing C++ SOURCE FILE Test has_std_11_flag succeeded with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_4cba9.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D has_std_11_flag /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4cba9.dir\Debug\\" /Fd"cmTC_4cba9.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\src.cxx"
+  src.cxx
+  
+  cmTC_4cba9.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_4cba9.exe
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test SUPPORTS_VARIADIC_TEMPLATES succeeded with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_4cf74.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D SUPPORTS_VARIADIC_TEMPLATES /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4cf74.dir\Debug\\" /Fd"cmTC_4cf74.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\src.cxx"
+  src.cxx
+  
+  cmTC_4cf74.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_4cf74.exe
+
+
+Source file was:
+
+  template <class T, class ...Types>
+  struct S { typedef typename S<Types...>::type type; };
+  int main() {}
+Performing C++ SOURCE FILE Test SUPPORTS_USER_DEFINED_LITERALS succeeded with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_4e2ac.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D SUPPORTS_USER_DEFINED_LITERALS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4e2ac.dir\Debug\\" /Fd"cmTC_4e2ac.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\src.cxx"
+  src.cxx
+  
+  cmTC_4e2ac.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_4e2ac.exe
+
+
+Source file was:
+
+  void operator"" _udl(long double);
+  int main() {}
+Performing C++ SOURCE FILE Test FMT_HAS_VARIANT succeeded with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_0f267.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D FMT_HAS_VARIANT /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_0f267.dir\Debug\\" /Fd"cmTC_0f267.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue  -std=c++1z "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\src.cxx"
+  src.cxx
+  
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++1z” [E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\cmTC_0f267.vcxproj]
+  class template variant is only available with C++17 or later.
+  cmTC_0f267.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_0f267.exe
+
+
+Source file was:
+
+  #include <variant>
+  int main() {}
+Determining if the open exist passed with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_79d50.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_79d50.dir\Debug\\" /Fd"cmTC_79d50.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  CheckSymbolExists.c
+  
+E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details. [E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\cmTC_79d50.vcxproj]
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_io.h(516): note: 参见“open”的声明
+  cmTC_79d50.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_79d50.exe
+
+
+File E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <io.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef open
+  return ((int*)(&open))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the _strtod_l exist passed with the following output:
+Change Dir: E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Microsoft Visual Studio/MSBuild/15.0/Bin/MSBuild.exe cmTC_f713a.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.16.27032.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f713a.dir\Debug\\" /Fd"cmTC_f713a.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  CheckSymbolExists.c
+  
+  cmTC_f713a.vcxproj -> E:\miniplc0-compiler\build\CMakeFiles\CMakeTmp\Debug\cmTC_f713a.exe
+
+
+File E:/miniplc0-compiler/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _strtod_l
+  return ((int*)(&_strtod_l))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
